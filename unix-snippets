@@ -1,0 +1,3 @@
+top - view all processes. shift-m to see ordered from most usage to least.
+sudo pkill python - kill all the Python processes running
+sudo pgrep python - see all Python processes
